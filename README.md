@@ -2,4 +2,6 @@
 https://explorer.testnet.near.org/transactions/4xucrBBMJxcHWueUafmWzE4JvBqMh67Wdd2Fs5sMvL8B (First Practice)
 https://explorer.testnet.near.org/transactions/22zpPTNfgRdjTxfftWmnKbYZGD3WKJsFWjzVsPbuFVGJ ( Task 4 Practice II)
 
+NEAR ACADEMY CERTIFICATE : https://near.academy/certificate/yzcr
+
 www.patika.dev
